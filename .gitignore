@@ -55,3 +55,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+
+# Ignore temp data and log folder
+.data
+.log
