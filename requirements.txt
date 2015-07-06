@@ -26,7 +26,11 @@ pep8==1.6.2
 pluggy==0.3.0
 py==1.4.30
 pyflakes==0.8.1
+python-coveralls==2.5.0
 pytz==2015.4
+PyYAML==3.11
+requests==2.7.0
+sh==1.11
 six==1.9.0
 SQLAlchemy==1.0.6
 tox==2.1.1
